@@ -45,8 +45,8 @@
               	<a class="dropdown-item" href="{{url('produk')}}">Product</a>
               </div>
             </li>
-	          <li class="nav-item"><a href="#" class="nav-link">About</a></li>
-	          <li class="nav-item"><a href="#" class="nav-link">Blog</a></li>
+	          <li class="nav-item"><a href="{{url('about')}}" class="nav-link">About</a></li>
+	          <li class="nav-item"><a href="{{url('blog')}}" class="nav-link">Blog</a></li>
 	          <li class="nav-item"><a href="{{url('login')}}" class="nav-link">Login</a></li>
 	        </ul>
 	      </div>

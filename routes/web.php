@@ -32,3 +32,7 @@ Route::get('/login', function () {
 Route::get('/about', function () {
     return view('layouts/about');
 });
+
+Route::get('/blog', function () {
+    return view('layouts/blog');
+});
