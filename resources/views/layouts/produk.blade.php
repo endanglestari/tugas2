@@ -31,7 +31,7 @@
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="{{url('layouts')}}">Vegefoods</a>
+	      <a class="navbar-brand" href="{{url('layout')}}">Vegefoods</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -53,7 +53,7 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
           <div class="col-md-9 ftco-animate text-center">
-          	<p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home</a></span> <span>Products</span></p>
+          	<p class="breadcrumbs"><span class="mr-2"><a href="{{url('layout')}}">Home</a></span> <span>Products</span></p>
             <h1 class="mb-0 bread">Products</h1>
           </div>
         </div>
