@@ -5,7 +5,7 @@
   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
   <style>
       body {
-       background: -webkit-linear-gradient(bottom, #2dbd6e, #a6f77b);
+       background: -webkit-linear-gradient(bottom, #00FFFF, #87CEEB);
        background-repeat: no-repeat;
 }
 #card {
